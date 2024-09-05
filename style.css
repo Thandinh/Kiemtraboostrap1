@@ -1,0 +1,36 @@
+img {
+    width: 100%;
+}
+
+a{
+    text-decoration: none;
+}
+
+.mt-10 {
+    margin-top: 10px;
+}
+
+.dropdown-menu {
+    display: none;
+}
+.dropdown:hover .dropdown-menu {
+    display: block;
+    margin-top: 57px;
+}
+
+.hv-header:hover {
+background-color: #d80e35;
+}
+
+p{
+    padding: 0;
+    margin: 0;
+}
+
+.pr-8{
+    padding-right: 8px;
+}
+
+.mx-h {
+    max-height: 200px;
+}
